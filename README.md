@@ -9,24 +9,25 @@
 <table>
   <tr>
     <td align="center">
-      <p>🚀 Splash Activity</p>
+      <p><small>🚀 Splash Activity</small></p>
       <img src="images/screenshot-SplashActivity.png" width="150" />
     </td>
     <td align="center">
-      <p>🔐 Login Activity</p>
+      <p><small>🔐 Login Activity</small></p>
       <img src="images/screenshot-LoginActivity.png" width="150" />
     </td>
     <td align="center">
-      <p>📋 List Fragment</p>
+      <p><small>📋 List Fragment</small></p>
       <img src="images/screenshot-ListFragment.png" width="150" />
     </td>
     <td align="center">
-      <p>📝 Create Fragment</p>
+      <p><small>📝 Create Fragment</small></p>
       <img src="images/screenshot-CreateFragment.png" width="150" />
     </td>
     <td align="center">
-      <p>👤 Profile Fragment</p>
+      <p><small>👤 Profile Fragment</small></p>
       <img src="images/screenshot-ProfileFragment.png" width="150" />
     </td>
   </tr>
 </table>
+
