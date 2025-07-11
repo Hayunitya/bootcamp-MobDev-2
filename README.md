@@ -10,23 +10,23 @@
   <tr>
     <td align="center">
       <p>🚀 Splash Activity</p>
-      <img src="images/screenshot-SplashActivity.png" width="200" />
+      <img src="images/screenshot-SplashActivity.png" width="150" />
     </td>
     <td align="center">
       <p>🔐 Login Activity</p>
-      <img src="images/screenshot-LoginActivity.png" width="200" />
+      <img src="images/screenshot-LoginActivity.png" width="150" />
     </td>
     <td align="center">
       <p>📋 List Fragment</p>
-      <img src="images/screenshot-ListFragment.png" width="200" />
+      <img src="images/screenshot-ListFragment.png" width="150" />
     </td>
     <td align="center">
       <p>📝 Create Fragment</p>
-      <img src="images/screenshot-CreateFragment.png" width="200" />
+      <img src="images/screenshot-CreateFragment.png" width="150" />
     </td>
     <td align="center">
       <p>👤 Profile Fragment</p>
-      <img src="images/screenshot-ProfileFragment.png" width="200" />
+      <img src="images/screenshot-ProfileFragment.png" width="150" />
     </td>
   </tr>
 </table>
