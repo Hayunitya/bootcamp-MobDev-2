@@ -21,7 +21,7 @@
       <img src="images/screenshot-ListFragment.png" width="200" />
     </td>
     <td align="center">
-      <p>🧾 Create Fragment</p>
+      <p>📝 Create Fragment</p>
       <img src="images/screenshot-CreateFragment.png" width="200" />
     </td>
     <td align="center">
